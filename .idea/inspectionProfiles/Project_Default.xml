@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_2" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_7" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_4" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_1" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_5" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_8" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_3" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_6" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.pushButton_9" />
+          <option value="projects.tic_tac_toe.newttt.TTTUI.pushButton_1" />
+          <option value="projects.tic_tac_toe.newttt.TTTUI.*" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.player_name" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.player_score" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.frontbot_score" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.frontbot" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.trial_num" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.new_game_btn" />
+          <option value="projects.tic_tac_toe.py_gui.TTTUI.quit_btn" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
